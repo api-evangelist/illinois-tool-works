@@ -1,7 +1,12 @@
 aid: illinois-tool-works
-url: https://raw.githubusercontent.com/api-evangelist/illinois-tool-works/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/illinois-tool-works/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.illinois-tool-works.com
+description: >-
+  Illinois Tool Works (ITW) is a global multi-industrial manufacturer of value-added
+  consumables and specialty equipment with related service businesses across automotive,
+  food equipment, test and measurement, and welding markets.
