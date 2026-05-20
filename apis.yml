@@ -23,6 +23,8 @@ url: https://raw.githubusercontent.com/api-evangelist/illinois-tool-works/refs/h
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/illinoistoolworks
   - type: Website
     url: https://www.itw.com
   - type: Investors
