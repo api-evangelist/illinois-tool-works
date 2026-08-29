@@ -42,6 +42,9 @@ tags:
 created: '2026-03-21'
 modified: '2026-04-28'
 url: https://raw.githubusercontent.com/api-evangelist/illinois-tool-works/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "ITW does not publish a public API or developer program."
 specificationVersion: '0.23'
 apis: []
 common:
