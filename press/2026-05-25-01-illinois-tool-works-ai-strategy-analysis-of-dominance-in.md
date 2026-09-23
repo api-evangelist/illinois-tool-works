@@ -1,7 +1,9 @@
 ---
 title: 'Illinois Tool Works'' AI Strategy: Analysis of Dominance in ...'
 url: https://www.klover.ai/illinois-tool-works-ai-strategy-analysis-of-dominance-in-manufacturing-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Illinois Tool Works" press release artificial intelligence'
 position: 1
 source: serpapi-google

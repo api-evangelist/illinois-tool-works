@@ -1,7 +1,9 @@
 ---
 title: ITW Our Entrepreneurial Culture is Our Competitive ...
 url: https://www.itw.com/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Illinois Tool Works" press release artificial intelligence'
 position: 3
 source: serpapi-google

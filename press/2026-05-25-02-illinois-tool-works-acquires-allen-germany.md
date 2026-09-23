@@ -1,7 +1,9 @@
 ---
 title: Illinois Tool Works acquires Allen Germany
 url: https://www.packagingdigest.com/machinery/illinois-tool-works-acquires-allen-germany
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Illinois Tool Works" press release artificial intelligence'
 position: 2
 source: serpapi-google

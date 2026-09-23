@@ -1,7 +1,9 @@
 ---
 title: 'Illinois Tool Works (ITW): A Fresh Look at Valuation After ...'
 url: https://finance.yahoo.com/news/illinois-tool-works-itw-fresh-152144063.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Illinois Tool Works" press release artificial intelligence'
 position: 5
 source: serpapi-google
